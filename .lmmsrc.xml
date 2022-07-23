@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-config-file>
+<lmms version="1.2.2">
+  <app configured="1"/>
+  <mixer audiodev="SDL (Simple DirectMedia Layer)" framesperaudiobuffer="256" mididev="WinMM MIDI"/>
+  <paths workingdir="C:/Users/USUARIO/Documents/lmms/" artwork="data:/themes/default/" stkdir="data:/stk/rawwaves/" backgroundartwork="" laddir="C:/Users/USUARIO/Documents/lmms/plugins/ladspa/" vstdir="C:\Program Files (x86)/VstPlugins/" sf2dir="C:/Users/USUARIO/Documents/lmms/samples/soundfonts/" gigdir="C:/Users/USUARIO/Documents/lmms/samples/gig/" defaultsf2=""/>
+  <recentfiles>
+    <file path="data:/projects/templates/default.mpt"/>
+  </recentfiles>
+</lmms>
